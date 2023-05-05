@@ -36,7 +36,7 @@ END
 
 ## 3) CASE를 사용할 경우 주의사항
 
-CASE 문은 SELECT 구 이외에도 WHERE 구와 ORDER BY 구에서도 사용할 수 있다.\
+CASE 문은 SELECT 구 이외에도 WHERE 구와 ORDER BY 구에서도 사용할 수 있다.
 
 - ELSE 생략
   ELSE를 생략하면 **ELSE NULL**이 된다
